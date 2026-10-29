@@ -5,7 +5,7 @@
 > 本仓在 siwpan 投资组合（D:/projects/repos，共 133 仓）中定级为 **② 保留**，领域 **爬虫/采集**。
 > **角色**：爬虫（归档级）。
 > **维护策略**：② 旗舰 / 枢纽仓库打磨保留，作为能力展示或收敛点；② 保留类仓库低优先维持、不主动扩张。
-> 投资组合统一分级索引：`D:/projects/repos/PORTFOLIO_TIERING.md`。
+> 投资组合统一分级索引（多机可查）：[组合分级决策索引 · allin 事实源](https://gitee.com/siwpan/allin/blob/master/docs/事实源/组合分级决策索引.md)。
 
 来源：[虚阁网 · 胡适集](https://www.xuges.com/xdmj/hushi/index.htm)（台北商务印书馆版《胡适留学日记》+ 日记抄本）；辑补卷另见下方说明。
 抓取日期：2026-09-08　全部采用 Python 标准库，零第三方依赖。
