@@ -79,8 +79,8 @@
 
 ```bash
 cd ../../pdf
-F:\Python314\python.exe ocr_run.py        # OCR（可中断，重跑续跑）
-F:\Python314\python.exe parse_ocr.py      # 分篇 → ../胡适日记/全编OCR-1919-1949/
+/Python314/python.exe ocr_run.py        # OCR（可中断，重跑续跑）
+/Python314/python.exe parse_ocr.py      # 分篇 → ../胡适日记/全编OCR-1919-1949/
 cd ../胡适日记/crawl && python build_all.py && python verify_all.py
 ```
 

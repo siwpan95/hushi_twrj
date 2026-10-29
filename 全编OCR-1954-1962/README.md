@@ -53,8 +53,8 @@
 
 ```bash
 cd ../../pdf
-F:\Python314\python.exe ocr_run.py --vol 8     # OCR（可中断，重跑续跑）
-F:\Python314\python.exe parse_ocr.py           # 分篇（册8 自动落到这里）
+/Python314/python.exe ocr_run.py --vol 8     # OCR（可中断，重跑续跑）
+/Python314/python.exe parse_ocr.py           # 分篇（册8 自动落到这里）
 cd ../胡适日记/crawl && python build_all.py && python verify_all.py
 ```
 
