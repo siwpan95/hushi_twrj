@@ -125,3 +125,15 @@ cd ../../crawl && python build_all.py && python verify_all.py
 ## 说明
 
 内容为第三方站点已公开的文献资料，仅作个人学习研究用的本地存档。
+
+
+## 许可
+
+- MIT-0，见 [LICENSE](LICENSE)。
+- MIT No Attribution —— 无署名义务。
+
+## 快速开始
+
+- 本项目为免安装形态：克隆后直接运行（见下方用法）。
+
+<!-- 补写记账：hushi_twrj · 本段由 allin 仓 tools/publish_area_readme_sections.py 依据本仓自身事实补写 -->

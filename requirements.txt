@@ -1,0 +1,10 @@
+# hushi_twrj · 依赖声明
+#
+# 本文件由 allin 仓 tools/publish_area_deps.py 从源码 import 实测生成
+# （AST 解析 + 本地模块消解 + vendor 源码树剔除）。
+# 版本未钉：如需固定版本请在本地核对后补 `==`，避免多环境失配。
+
+Pillow
+PyMuPDF
+numpy
+rapidocr-onnxruntime
